@@ -1,0 +1,41 @@
+{
+  "group1": [
+    {
+      "name": "Park",
+      "age": "32",
+      "gender": "Male"
+    },
+    {
+      "name": "Cho",
+      "age": "30",
+      "gender": "Feale"
+    },
+    {
+      "name": "Kwon",
+      "age": "39",
+      "gender": "Male",
+      "married": "No"
+    }
+  ],
+  "group2": [
+    {
+      "name": "Kang",
+      "age": "31",
+      "gender": "Male",
+      "married": "No"
+    },
+    {
+      "name": "Lee",
+      "age": "37",
+      "gender": "Female",
+      "married": "Yes"
+    }
+  ],
+  "type": {
+    "a": "employee",
+    "b": "officer",
+    "c": "director",
+    "d": "manager",
+    "e": "service provider"
+  }
+}
